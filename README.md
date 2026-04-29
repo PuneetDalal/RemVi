@@ -4,19 +4,14 @@ A high-performance, modern image editor built with PyQt6, optimized for low-end 
 
 ## Features
 
-### 🎨 Modern UI/UX
-- **Professional Dark Theme** - Beautiful, modern interface inspired by professional image editors
-- **Dockable Panels** - Customizable workspace with movable panels
-- **Smooth Interactions** - Optimized rendering for fluid user experience
-
-### 🖌️ Advanced Tools
+### Tools
 - **Brush Tool** - Customizable brush with size and opacity controls
 - **Eraser Tool** - Remove parts of your artwork
 - **Eyedropper Tool** - Pick colors directly from the canvas
 - **Pan Tool** - Navigate large canvases easily
 
-### 🎨 Color Management
-- **Modern Color Picker** - RGB sliders with live preview
+### Color Management
+- **Color Picker** - RGB sliders with live preview
 - **Color Swatches** - Quick access to common colors
 - **Advanced Color Dialog** - Full-featured color selection
 
